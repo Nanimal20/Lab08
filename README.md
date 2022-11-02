@@ -67,4 +67,3 @@ Member3 (opinion)	20	     40	     40
 1.	70% - Task 1 has been correctly implemented and meets all requirements.
 1.	30% - Lab report contains all required information and is well written.
 If program fails to compile, 0% will be given for that Task.
-
